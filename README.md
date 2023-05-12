@@ -1,4 +1,5 @@
 ### Hi! I'm Danielle! ⭐️
 
-- 🌱 I’m currently learning Swift/iOS development 
+- 🍏 I am a iOS developer
+- 👩🏻‍💻 Currently working on Mercado Livre Brasil
 - 😄 Pronouns: She/her
